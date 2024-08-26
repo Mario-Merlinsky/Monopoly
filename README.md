@@ -1,5 +1,9 @@
 # Monopoly-Morphic
-
+# Creadores:
+Mariano Merlinsky
+Nicolas De La Torre
+Matias Besmedrisnik
+Facundo Calderan
 # Como ejecutar el programa:
 Para ejecutar el programa se debe tener instalada una version de java mayor o igual a la 21.  Recomendamos la JDK 21 de oracle que utilizamos en nuestro proyecto.
 Link de descarga: https://www.oracle.com/java/technologies/downloads/
